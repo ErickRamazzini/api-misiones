@@ -11,7 +11,7 @@ const datos = {
   detalle: [
     { misionId: 1, estado: true },   // Crear API ✔
     { misionId: 2, estado: true },   // Crear Frontend ✔
-    { misionId: 3, estado: false },  // Subir código a GitHub
+    { misionId: 3, estado: true },   // Subir código a GitHub ✔
     { misionId: 4, estado: false },  // Publicar en hosting
     { misionId: 5, estado: false }   // Pruebas de ingreso
   ]
