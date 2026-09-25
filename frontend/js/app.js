@@ -1,6 +1,6 @@
 // ===== Configuración =====
 // URL de TU API. Al publicar en Azure, se cambia por la dirección de Azure.
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://api-misiones-erick.onrender.com';
 const MI_CARNET = '1890-23-15896';
 
 // Datos en memoria
